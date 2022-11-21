@@ -9,3 +9,5 @@ const newENd = 10;
 const n = 20;
 
 const newStatrt = 10;
+
+const first = 1;
